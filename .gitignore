@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Large datasets
+*.csv
+*.zip
+*.rar
+*.7z
+
+# Trained models
+*.h5
+*.keras
+*.pth
+*.pt
+*.pkl
+*.joblib
+
+# Google Colab
+/content/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
